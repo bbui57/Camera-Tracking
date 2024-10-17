@@ -1,2 +1,2 @@
 # Camera-Tracking
-A project in tracking fluid arm/hand/digit motion that may translate to American Sign Language
+A project in tracking fluid upper body motion and translating American Sign Language into written text.
